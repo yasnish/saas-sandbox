@@ -159,3 +159,5 @@ export const Vol71: Story = { args: { vol: 71 } };
 export const Vol72: Story = { args: { vol: 72 } };
 
 export const Vol73: Story = { args: { vol: 73 } };
+
+export const Vol74: Story = { args: { vol: 74 } };
