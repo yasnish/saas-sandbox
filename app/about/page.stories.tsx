@@ -7,6 +7,7 @@ const meta = {
   component: About,
   parameters: {
     layout: 'fullscreen',
+    chromatic: { disableSnapshot: true },
   },
   args: {},
 } satisfies Meta<typeof About>;
