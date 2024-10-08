@@ -1,10 +1,13 @@
 export const allModes = {
     mobile: {
-      viewport: "mobile",
-    },
-    desktop: {
-      viewport: "desktop",
-    },
+        viewport: "mobile",
+      },
+      tablet: {
+        viewport: "tablet",
+      },
+      desktop: {
+        viewport: "desktop",
+      },
     dark: {
       backgrounds: { value: "#1E293B" },
       theme: "dark",
