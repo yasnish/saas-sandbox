@@ -10,6 +10,8 @@ const preview: Preview = {
         dark: allModes["dark"],
         mobile: allModes["mobile"],
         desktop: allModes["desktop"],
+        "dark desktop": allModes["dark desktop"],
+        "light mobile": allModes["light mobile"],
       },
     },
     controls: {
