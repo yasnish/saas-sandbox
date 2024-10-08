@@ -1,9 +1,9 @@
 export const allModes = {
     mobile: {
-      viewport: "small",
+      viewport: "mobile",
     },
     desktop: {
-      viewport: "large",
+      viewport: "desktop",
     },
     dark: {
       backgrounds: { value: "#1E293B" },
@@ -24,4 +24,3 @@ export const allModes = {
       viewport: "small",
     },
   };
-  
