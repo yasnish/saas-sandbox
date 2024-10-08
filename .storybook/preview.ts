@@ -6,8 +6,10 @@ const preview: Preview = {
   parameters: {
     chromatic: {
       modes: {
-        light: allModes["light"],
-        dark: allModes["dark"],
+        // light: allModes["light"],
+        // dark: allModes["dark"],
+        mobile: allModes["mobile"],
+        desktop: allModes["desktop"],
       },
     },
     controls: {
